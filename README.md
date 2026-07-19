@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🔭 I'm currently working on my MS thesis in Computer Science at Governors State University, applying Large Language Models to real-world classification problems
-🌱 I'm currently learning RAG, MLOps, model deployment pipelines, and agentic AI systems
-⚡ I'm working as a Project Coordinattor for semiconductors and microelectronics program, where we build robotic projects
-🎬 I also do graphic design and video editing for the research center I work with at Chicago State University
+- 🔭 I'm currently working on my MS thesis in Computer Science at Governors State University, applying Large Language Models to real-world classification problems
+- 🌱 I'm currently learning RAG, MLOps, model deployment pipelines, and agentic AI systems
+- ⚡ I'm working as a Project Coordinattor for semiconductors and microelectronics program, where we build robotic projects
+- 🎬 I also do graphic design and video editing for the research center I work with at Chicago State University
 
 
 ## 🌐 Socials:
